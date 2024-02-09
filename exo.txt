@@ -1,0 +1,11 @@
+Créer un dossier data   V
+Stocker le csv    V
+Créer une table ODS, avec un champ de date V
+Créer une variable d'environnement pour le DATA_DIR   V
+Installer pandas   V
+Créer un script ETL ODS   V
+Le script doit faire un truncate et une insertion  V
+Alimenter la table ODS  V
+Checker la page admin pour vérifier l'import de données   V
+Pousser sur github  V
+Afficher le nombre de ligne dans l'ODS au niveau de l'index.html  V
